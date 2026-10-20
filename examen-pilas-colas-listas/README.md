@@ -1,4 +1,3 @@
-# Examen de estructuras de datos
 # Examen SD1004: Pilas, colas y listas
 
 ## Información del estudiante
